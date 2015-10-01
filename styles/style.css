@@ -29,7 +29,7 @@ body {
 	width: 98%;
 	height: 96%;
 	margin: 0.8em auto;
-	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-family: 'Alegreya', serif;
 	background-color: #1F253D;
 	text-align: center;
 	-webkit-border-radius: 4px;
@@ -318,4 +318,14 @@ ul.guessBox li {
 	width: 95%;
 	margin: 0.2em;
 	color: #fff;
+}
+
+.hot{
+color: #FF2700;
+    text-shadow: 5px 5px 15px #ff2700;
+}
+
+.cold {
+color: #9AD3E8;
+text-shadow: 5px 5px 15px #9AD3E8;
 }
